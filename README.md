@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdullahSH97
+- 👋 Hi, I’m Abdullah Sayed
 - 👀 I’m interested in Machine learning and Artificial intelligence
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on nothing because I am still learning
